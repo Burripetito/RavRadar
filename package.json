@@ -2,7 +2,7 @@
   "name": "ravradar",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://DITBRUGERNAVN.github.io/ravradar",
+  "homepage": "https://Burripetito.github.io/ravradar",
   "dependencies": {
     "leaflet": "^1.9.4",
     "react": "^18.2.0",
